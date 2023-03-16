@@ -11,11 +11,17 @@
   - fs-readfile: Helper function to read file contents
   - typeof: Helper function to returns the type of the value passed in
 
-## Installation
+## Scripts
 
 ```sh
+# Install npm dependencies
 $ npm install
+
+# Create your build
 $ npm run build
+
+# Run a watcher that builds your active development changes
+$ npm run watch
 ```
 
 ## Registered CLI Commands
