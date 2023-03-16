@@ -22,6 +22,9 @@ $ npm run build
 
 # Run a watcher that builds your active development changes
 $ npm run watch
+
+# Publish your cli tool locally
+$ npm link
 ```
 
 ## Registered CLI Commands

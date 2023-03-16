@@ -7,6 +7,9 @@
     "build": "tsc",
     "watch": "tsc --watch"
   },
+  "bin": {
+    "commander-autoload-commands": "./build/index"
+  },
   "author": "Faiz A. Farooqui <faizahmed.in@gmail.com> (https://faizahmed.in)",
   "license": "MIT",
   "dependencies": {
